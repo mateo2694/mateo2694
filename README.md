@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mateo2694
-- 👀 I’m interested in Web UI development, but also backend, cloud, electronics and more!
-- 🌱 I’m currently learning Astro!
+- 👋 Hi, I’m Mateo!
+- 👀 I’m interested in Web UI development, but also backend, cloud, electronics and more
+- 🌱 I’m currently learning Astro
 
 <!---
 mateo2694/mateo2694 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
