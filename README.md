@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mateo2694
-- 👀 I’m interested in Web UI development, but also back end, illustration, photography, electronics and more!
+- 👀 I’m interested in Web UI development, but also backend, cloud, electronics and more!
 - 🌱 I’m currently learning Astro!
 
 <!---
